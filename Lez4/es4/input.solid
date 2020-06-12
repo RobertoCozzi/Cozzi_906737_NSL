@@ -1,0 +1,23 @@
+1.5
+108
+1.1
+2.2
+0.0005
+1000
+100
+1000
+0
+0
+0
+
+  ReadInput >> temp;
+  ReadInput >> npart;
+  ReadInput >> rho;
+  ReadInput >> rcut;
+  ReadInput >> dt;
+  ReadInput >> nstep;
+  ReadInput >> nblock;
+  ReadInput >> eqstep;
+  ReadInput >> old;
+  ReadInput >> print_config;
+  ReadInput >> intstan_print;
